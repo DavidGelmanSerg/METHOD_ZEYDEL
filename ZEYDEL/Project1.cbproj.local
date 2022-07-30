@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.301,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Home\Documents\Embarcadero\Studio\Projects\ZEYDEL\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.756,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Home\Documents\Embarcadero\Studio\Projects\ZEYDEL\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.301,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\ZEYDEL\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.645,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Home\Documents\Embarcadero\Studio\Projects\ZEYDEL\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.474,=C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.885,C:\Users\Home\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Home\Documents\Embarcadero\Studio\Projects\ZEYDEL\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
